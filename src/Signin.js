@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Form, Text} from 'react-form';
+import {Form, Text} from './Form';
 
 export default class Signin extends Component {
     constructor(props) {

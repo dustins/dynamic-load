@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
-import {Form, Text, TextArea} from 'react-form';
+import {Form, Text, TextArea} from './Form';
+
 
 export default class Contact extends Component {
     render() {
